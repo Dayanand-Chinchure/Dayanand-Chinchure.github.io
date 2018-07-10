@@ -58,6 +58,10 @@ toc: true
     </li>
     <li>
       <strong>IBM API Connect</strong>
+      <code>- Set up HA for IBM APIC, IBM Datapower and IBM DevPortal. 
+- Explored features to general API management concepts and API Economy.
+- Drupal customization in IBM DevPortal
+- Use case on API Connect.</code>
     </li>
     <li>
       <strong>IBM Lab Setup</strong>
