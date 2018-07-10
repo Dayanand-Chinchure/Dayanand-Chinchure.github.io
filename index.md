@@ -108,12 +108,6 @@ toc: true
       <strong>IBM Butterfly</strong>
       <code class="highlighter-rouge ">Oct 2016 - Nov 2016</code>
       <br/>
-      <span>
-        IBM project
-        <br/>
-        <button class='btn btn--small btn--light-outline tech-label'>IBM BPM</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Powershell</button>
-      </span>
     </li>
   </ul>
 </div>
@@ -126,7 +120,6 @@ toc: true
 -->
 ## Skills & Proficiency <i class='fa fa-bar-chart' aria-hidden='true'></i>
   Python, Scala, Java, Scheme & C
--->
 ## Education <i class="fa fa-pencil" aria-hidden="true"></i> 
 
 <div class="cv_content">
@@ -157,7 +150,7 @@ toc: true
       <br/>
       <span>
         <i>
-          <i class="fa fa-institution" aria-hidden="true"></i> GSMP, Pune <i class="fa fa-map-marker" aria-hidden="true"></i> Pune.
+          <i class="fa fa-institution" aria-hidden="true"></i> GSMP <i class="fa fa-map-marker" aria-hidden="true"></i> Pune.
         </i>
       </span>
     </li>
