@@ -38,75 +38,21 @@ toc: true
   <ul>
     <li>
       <strong>IBM CIS Defect fixing</strong>
-      <code class="highlighter-rouge ">Oct 2017 - Dec 2017</code>
-      <br/>
-      <span>
-        
-        <br/>
-        <button class='btn btn--small btn--light-outline tech-label'>NodeJS</button>
-        <button class='btn btn--small btn--light-outline tech-label'>CouchDB</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Node-RED</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Raspberry Pi</button>
-        <button class='btn btn--small btn--light-outline tech-label'>IBM IoT Platform</button>
-        <a class='btn btn--small btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
-      </span>
     </li>
     <li>
       <strong>IBM CIS GDPR</strong>
-      <code class="highlighter-rouge ">Sep 2017 - Oct 2017</code>
-      <br/>
-      <span>
-        GDPR Details
-        <br/>
-        <button class='btn btn--small btn--light-outline tech-label'>Spark</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Hadoop</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Python</button>
-        <button class='btn btn--small btn--light-outline tech-label'>HTML</button>
-        <a class='btn btn--small btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
-      </span>
     </li>
     <li>
       <strong>SAML</strong>
-      <code class="highlighter-rouge ">June 2015 - May 2016</code><br/>
-      <span>
-       SAML Scala 
-        <br/>
-        <button class='btn btn--small btn--light-outline tech-label'>Java</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Hadoop</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Pig</button>
-        <button class='btn btn--small btn--light-outline tech-label'>JSP</button>
-        <button class='btn btn--small btn--light-outline tech-label'>HTML</button>
-        <button class='btn btn--small btn--light-outline tech-label'>CSS</button>
-        <a target="_blank" href="https://github.com/abhishek-mane/vulnerability-assessment" class='btn btn--small btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
-      </span>
     </li>
     <li>
       <strong>IBM API Connect</strong>
-      <code class="highlighter-rouge ">Nov 2016 - Jul 2017</code>
-      <code class="highlighter-rouge live-label">LIVE</code>
-      <br/>
-      <span>
-        IBM Cloud Orchestrator API Connect.
-        <br/>
-        <button class='btn btn--small btn--light-outline tech-label'>Java</button>
-        <button class='btn btn--small btn--light-outline tech-label'>IBM BPM</button>
-        <button class='btn btn--small btn--light-outline tech-label'>JS</button>
-      </span>
     </li>
     <li>
       <strong>IBM Lab Setup</strong>
-      <code class="highlighter-rouge ">Sep 2016 - Oct 2016</code>
-      <br/>
-      <span>
-        LAB Setup
-        <br/>
-        <button class='btn btn--small btn--light-outline tech-label'>Python</button>
-        <button class='btn btn--small btn--light-outline tech-label'>OpenStack</button>
-      </span>
     </li>
     <li>
       <strong>IBM Butterfly</strong>
-      <code class="highlighter-rouge ">Oct 2016 - Nov 2016</code>
       <br/>
     </li>
   </ul>
