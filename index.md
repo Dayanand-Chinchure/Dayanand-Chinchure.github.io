@@ -37,33 +37,7 @@ toc: true
 <div class="cv_content">
   <ul>
     <li>
-      <strong>IBM Cost And Asset Management (CAM)</strong>
-      <code class="highlighter-rouge ">Jan 2018 - Present</code>
-      <code class="highlighter-rouge live-label">LIVE</code>
-      <br/>
-      <span>
-        Cost and Asset Management gives hybrid cloud users real-time visibility and actionable insight into their cloud investments.
-        <br/>
-        <button class='btn btn--small btn--light-outline tech-label'>Python</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Pandas</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Spark</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Docker</button>
-      </span>
-    </li>
-    <li>
-      <strong>Docker Compose for CAM</strong>
-      <code class="highlighter-rouge ">Jan 2018 - Mar 2018</code>
-      <br/>
-      <span>
-        This is basically the docker-compose dynamic script designed for developer to setup the entire dev environment easily and test the local changes. Advantages of this over the kubernetes deployment are, <strong><i>On the fly code changes, DNS proxy server</i></strong> etc.
-        <br/>
-        <button class='btn btn--small btn--light-outline tech-label'>Python</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Docker</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Docker Compose</button>
-      </span>
-    </li>
-    <li>
-      <strong>Air Quality Monitoring</strong>
+      <strong>IBM CIS Defect fixing</strong>
       <code class="highlighter-rouge ">Oct 2017 - Dec 2017</code>
       <br/>
       <span>
@@ -78,11 +52,11 @@ toc: true
       </span>
     </li>
     <li>
-      <strong>Apache Spark based statistic reporting from large datasets</strong>
+      <strong>IBM CIS GDPR</strong>
       <code class="highlighter-rouge ">Sep 2017 - Oct 2017</code>
       <br/>
       <span>
-        Internal POC to read raw data in spark cluster and finds the correlation between data to provide more insights and statistics. Spark was deployed on top of Hadoop.
+        GDPR Details
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>Spark</button>
         <button class='btn btn--small btn--light-outline tech-label'>Hadoop</button>
@@ -92,10 +66,10 @@ toc: true
       </span>
     </li>
     <li>
-      <strong>Vulnerability Assessment using logs as Big Data</strong>
+      <strong>SAML</strong>
       <code class="highlighter-rouge ">June 2015 - May 2016</code><br/>
       <span>
-        A linux based system capable of detecting and notifying vulnerabilities (like intrusions, password cracking attempt, etc) of each and every machine by collecting system logs and analyze them using Hadoop.
+       SAML Scala 
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>Java</button>
         <button class='btn btn--small btn--light-outline tech-label'>Hadoop</button>
@@ -107,12 +81,12 @@ toc: true
       </span>
     </li>
     <li>
-      <strong>IBM Cloud Orchestrator (ICO)</strong>
+      <strong>IBM API Connect</strong>
       <code class="highlighter-rouge ">Nov 2016 - Jul 2017</code>
       <code class="highlighter-rouge live-label">LIVE</code>
       <br/>
       <span>
-        IBM Cloud Orchestrator is a cloud management platform that automates provisioning of cloud services using policy-based tools. Worked as a level-3 support team member responsible for fixing the code issues and customer interactions for the issues.
+        IBM Cloud Orchestrator API Connect.
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>Java</button>
         <button class='btn btn--small btn--light-outline tech-label'>IBM BPM</button>
@@ -120,22 +94,22 @@ toc: true
       </span>
     </li>
     <li>
-      <strong>Usage/Cost of cloud resources using OpenStack Ceilometer</strong>
+      <strong>IBM Lab Setup</strong>
       <code class="highlighter-rouge ">Sep 2016 - Oct 2016</code>
       <br/>
       <span>
-        Used OpenStack Ceilometer python SDK to get the usage of cloud resources to generate the bill from standard rate charts.
+        LAB Setup
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>Python</button>
         <button class='btn btn--small btn--light-outline tech-label'>OpenStack</button>
       </span>
     </li>
     <li>
-      <strong>Virtual Machine Migration</strong>
+      <strong>IBM Butterfly</strong>
       <code class="highlighter-rouge ">Oct 2016 - Nov 2016</code>
       <br/>
       <span>
-        IBM BPM based orchestration to migrate the virtual machine from vmware vcenter to hyper-v and vice-versa.
+        IBM project
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>IBM BPM</button>
         <button class='btn btn--small btn--light-outline tech-label'>Powershell</button>
@@ -284,8 +258,8 @@ toc: true
       </span>
     </li>
     <li>
-      <strong>Higher Education</strong>
-      <code class="highlighter-rouge ">2010 - 2012</code>
+      <strong>Graduation in Electronics</strong>
+      <code class="highlighter-rouge ">2010 - 2013</code>
       <br/>
       <span>
         <i>
