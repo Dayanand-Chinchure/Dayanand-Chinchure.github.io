@@ -274,12 +274,12 @@ toc: true
 <div class="cv_content">
   <ul>
     <li>
-      <strong>Graduation in Computer Science</strong>
-      <code class="highlighter-rouge ">2012 - 2016</code>
+      <strong>Masters in Computer Application</strong>
+      <code class="highlighter-rouge ">2013 - 2016</code>
       <br/>
       <span>
         <i>
-          <i class="fa fa-institution" aria-hidden="true"></i> D. Y. Patil College of Engineering, <i class="fa fa-map-marker" aria-hidden="true"></i> Akurdi, Pune.
+          <i class="fa fa-institution" aria-hidden="true"></i> PUCSD <i class="fa fa-map-marker" aria-hidden="true"></i>Pune.
         </i>
       </span>
     </li>
@@ -289,7 +289,7 @@ toc: true
       <br/>
       <span>
         <i>
-          <i class="fa fa-institution" aria-hidden="true"></i> Bharat English School & Jr. College, <i class="fa fa-map-marker" aria-hidden="true"></i> Shivajinagar, Pune.
+          <i class="fa fa-institution" aria-hidden="true"></i> N. Wadia College, <i class="fa fa-map-marker" aria-hidden="true"></i> Bund Garden, Pune.
         </i>
       </span>
     </li>
@@ -299,7 +299,7 @@ toc: true
       <br/>
       <span>
         <i>
-          <i class="fa fa-institution" aria-hidden="true"></i> Prerana Prathmik & Madhyamik Vidyalaya <i class="fa fa-map-marker" aria-hidden="true"></i> Pune.
+          <i class="fa fa-institution" aria-hidden="true"></i> GSMP, Pune <i class="fa fa-map-marker" aria-hidden="true"></i> Pune.
         </i>
       </span>
     </li>
@@ -317,10 +317,10 @@ toc: true
 <div class="cv_content">
   <small>
     <i class='fa fa-phone' aria-hidden='true'></i> 
-    <a style ="text-decoration: none;" href="tel:+918626073884">(+91) 86260 73884</a>
+    <a style ="text-decoration: none;" href="tel:+918446295187">(+91) 84462 95187</a>
     <br/>
     <i class='fa fa-envelope' aria-hidden='true'></i> 
-    <a style ="text-decoration: none;" href="mailto:abhishekmane@outlook.in">abhishekmane@outlook.in</a>
+    <a style ="text-decoration: none;" href="mailto:dchinchure@gmail.com">dchinchure@gmail.com</a>
   </small>
 </div>
 <!-- 
