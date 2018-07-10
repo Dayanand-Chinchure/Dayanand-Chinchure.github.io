@@ -125,7 +125,7 @@ toc: true
   <==========================> START  : Programming Skills
 -->
 ## Skills & Proficiency <i class='fa fa-bar-chart' aria-hidden='true'></i>
-  <==========================> START  : Education
+  Python, Scala, Java, Scheme & C
 -->
 ## Education <i class="fa fa-pencil" aria-hidden="true"></i> 
 
