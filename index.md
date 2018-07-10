@@ -25,7 +25,7 @@ toc: true
 <div class="cv_content">
   <ul>
     <li>
-      <strong>SAL Labs, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune</strong>
+      <strong>SAP Labs, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune</strong>
       <code class="highlighter-rouge ">June 2015 - December 2015</code>
       <br/>
       <span>
