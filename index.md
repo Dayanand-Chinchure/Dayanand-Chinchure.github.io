@@ -48,10 +48,10 @@ toc: true
 <div class="cv_content">
   <ul>
     <li>
-      <strong>IBM CIS Defect fixing</strong>
+      <strong>CIS Defect fixing</strong>
     </li>
     <li>
-      <strong>IBM CIS GDPR</strong>
+      <strong>CIS GDPR</strong>
     </li>
     <li>
       <strong>SAML</strong>
@@ -60,10 +60,10 @@ toc: true
       <strong>IBM API Connect</strong>
     </li>
     <li>
-      <strong>IBM Lab Setup</strong>
+      <strong>Lab Setup</strong>
     </li>
     <li>
-      <strong>IBM Butterfly</strong>
+      <strong>IBM Cloud & Storage</strong>
       <br/>
     </li>
   </ul>
