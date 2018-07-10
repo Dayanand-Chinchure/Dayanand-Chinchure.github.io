@@ -22,7 +22,18 @@ toc: true
     </li>
   </ul>
 </div>
-
+<div class="cv_content">
+  <ul>
+    <li>
+      <strong>SAL Labs, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune</strong>
+      <code class="highlighter-rouge ">June 2015 - December 2015</code>
+      <br/>
+      <span>
+        <i class='fa fa-laptop' aria-hidden='true'></i> <i>Software Engineer - Intern</i>
+      </span>
+    </li>
+  </ul>
+</div>
 <!-- 
   <==========================> END    : Experience
 -->
