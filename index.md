@@ -17,7 +17,7 @@ toc: true
       <code class="highlighter-rouge ">Aug 2016 - Present</code>
       <br/>
       <span>
-        <i class='fa fa-laptop' aria-hidden='true'></i> <i>Software Developer</i>
+        <i class='fa fa-laptop' aria-hidden='true'></i> <i>Software Engineer</i>
       </span>
     </li>
   </ul>
@@ -41,7 +41,7 @@ toc: true
       <code class="highlighter-rouge ">Oct 2017 - Dec 2017</code>
       <br/>
       <span>
-        Its a central air quality monitoring dashbard which will help people of the city to identify how affected is the particular area with dangerous pollutants. Air quality sensor simulators were used to periodically send the data to central service for analysis.
+        
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>NodeJS</button>
         <button class='btn btn--small btn--light-outline tech-label'>CouchDB</button>
